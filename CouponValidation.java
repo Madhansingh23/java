@@ -55,5 +55,4 @@ public class CouponValidation{
         System.out.println(coupon.validateCoupons(code, businessLine, isActive));
         // Output: [PHARMA5, SAVE20]
     }
-
 }
